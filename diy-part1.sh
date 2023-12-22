@@ -22,3 +22,4 @@
 echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
 echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
 echo 'src-git lienol https://github.com/Lienol/openwrt-package' >>feeds.conf.default
+echo 'src-git ath10k https://github.com/greearb/ath10k-ct' >>feeds.conf.default
